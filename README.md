@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Mostafa Ahmed
 
-## Frontend Developer | MERN Stack Learner
+## Frontend Developer | MERN Stack Developer
 
 I’m a passionate Frontend Developer and Computer Science student focused on building modern, responsive, and scalable web applications.
 
