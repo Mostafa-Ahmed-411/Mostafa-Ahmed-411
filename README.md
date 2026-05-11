@@ -11,9 +11,9 @@ I’m a passionate Frontend Developer and Computer Science student focused on bu
 
 - 📧 Email: [Mostafa.ahmed.50m@gmail.com](mailto:Mostafa.ahmed.50m@gmail.com)
 - 📱 WhatsApp: [wa.me/201032161126](https://wa.me/201032161126)
-- 💼 LinkedIn: [linkedin](https://github.com/Mostafa-Ahmed-411)
-- 🌍 About my projects: [Portfolio](https://your-portfolio.com)
-- 📄About my experiences: [CV](https://your-cv-link.com)
+- 💼 LinkedIn: [linkedin](https://www.linkedin.com/in/mostafa-ahmed-drsh411/)
+- 🌍 About my projects: [Portfolio](https://mostafa-ahmed-411.github.io/Portfolio/)
+- 📄About my experiences: [CV](https://drive.google.com/file/d/1kXHmfyqEue7O9LCZg6HXBOiaDgFVU_80/view?usp=sharing)
 
 ---
 
